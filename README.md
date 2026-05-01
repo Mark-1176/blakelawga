@@ -1,8 +1,6 @@
-# Blake
+# Mark
 
-### Engineer @ Kalshi | Distributed Systems | Real-Time Polls Architect
 
-"Complexity is the tax on failure to automate."
  
 ---
 
